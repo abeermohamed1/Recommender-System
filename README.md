@@ -45,6 +45,7 @@ The project has 7 main phases
   3-	empty useless products (has no reviews nor description ) are filtered out
 
 * **[Model Phase](https://github.com/abeermohamed1/Recommender-System/blob/master/FinalProject_jar):**
+**(FinalProject_jar)**
 
   1-	Text mining phase:
     a.	Text tokenization
