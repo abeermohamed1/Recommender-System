@@ -1,6 +1,11 @@
 #################################################################
 #   installation Guide                                          #
 #################################################################
+# This project is an implementation of the paper
+# McAuley, J., Pandey, R., & Leskovec, J. (2015). Inferring Networks of Substitutable and Complementary Products. In Proceedings of the 21st acm
+sigkdd conference on knowledge discovery and data mining (kdd’15) (p. 12).
+Retrieved from http://arxiv.org/abs/1506.08839 doi: 10.1145/2783258
+.2783381
 # Data Preperations:
 ##################################
 # 1- create floder "/home/cloudera/BigDataCourseProject/baby/"
