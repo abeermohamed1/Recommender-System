@@ -118,5 +118,5 @@ The project has 7 main phases
 
   The best way to represent the relations between related products; is to represent them as a graph. 
 
-for more details please review the [documentation](https://github.com/abeermohamed1/Recommender-System/blob/master/Recommender%20System%20-%20Documentation.pdf)
+for more details please review the [documentation](https://github.com/abeermohamed1/Recommender-System/blob/master/Recommender%20System%20-%20Documentation.pdf) and [Installation Guide](https://github.com/abeermohamed1/Recommender-System/blob/master/Installation%20Guide.txt)
 Hope this would be helpfull for every one
